@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configurations>
+	<Configuration attribute-id="url">https://www.google.com</Configuration>
+	<Configuration attribute-id="browser">chrome</Configuration>
+	<Configuration attribute-id="apiurl">http://api.zippopotam.us/us/</Configuration>
+	<Configuration attribute-id="apitest">API</Configuration>
+</Configurations>
